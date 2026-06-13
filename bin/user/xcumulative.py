@@ -13,10 +13,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.
 
-Version: 0.3.0b2                                        Date: ? June 2026
+Version: 0.3.0                                          Date: 13 June 2026
 
 Revision History
-    ? June 2026         v0.3.0
+    13 June 2026        v0.3.0
         -   complete revision
     25 October 2022     v0.2.0
         -   implement support for zero_lead_in
@@ -94,7 +94,7 @@ import weewx.xtypes
 # we require WeeWX 4.6.0 or later so we can safely only support WeeWX 4 logging
 log = logging.getLogger(__name__)
 # our version number
-XCUMULATIVE_VERSION = '0.3.0b2'
+XCUMULATIVE_VERSION = '0.3.0'
 
 
 # ==============================================================================
